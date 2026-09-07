@@ -1,0 +1,6 @@
+{
+  "name": "phonemizer-core",
+  "version": "1.0.0",
+  "description": "Generic plugin contract for phonemization engines.",
+  "license": "Apache-2.0"
+}
